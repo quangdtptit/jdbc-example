@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("Them student");
+        System.out.println("Them moi teacher");
         Connection connection = null;
         try {
             // tạo kết nối csdl
