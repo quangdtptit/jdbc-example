@@ -5,6 +5,7 @@ import java.sql.*;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Them student");
         Connection connection = null;
         try {
             // tạo kết nối csdl
